@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nicolas and I'm a Front-end developer, from Hungary</p>
+<p align="left">My name is Nicolas and I'm a Front-end developer, from Hungary.</p>
 
 ###
 
@@ -37,7 +37,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NickFusari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NickFusari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
